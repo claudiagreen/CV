@@ -97,3 +97,5 @@ Twitter: [@cl4ud14g](https://twitter.com/CL4UD14G)
 LinkedIn: [claudia-green](https://uk.linkedin.com/in/claudia-green-38190a82)
 
 Blog: [claudiagreenweb](https://claudiagreenweb.wordpress.com/)
+
+References available upon request.
