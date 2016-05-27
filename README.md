@@ -72,7 +72,10 @@ Awards:
 
 __Digital Media Intern (_Jul 2015 - Jan 2016_ )__
 * Assisted in the creation & delivery of digital content through the University’s social media channels and other digital platforms.
-* Gained first hand experience in what does & doesn't make a successful digital campaign.
+* Helped evaluate and exploit emerging digital platforms and technologies, keeping an ear to the ground for what was cool & what our target audience was using.
+* Worked with the Digital Engagement Officer and wider content development team to generate new and engaging content.
+* I was individually responsible for a number of the University's key social media accounts & generating the daily content for those channels.
+* Gained first hand experience in what does & doesn't make a successful digital campaign!
 
 ## Talks
 
