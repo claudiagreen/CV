@@ -70,12 +70,19 @@ Awards:
 
 ## Experience
 
-__Digital Media Intern (_Jul 2015 - Jan 2016_ )__
+__Digital Media Intern, Loughborough University (_Jul 2015 - Jan 2016_ )__
 * Assisted in the creation & delivery of digital content through the University’s social media channels and other digital platforms.
 * Helped evaluate and exploit emerging digital platforms and technologies, keeping an ear to the ground for what was cool & what our target audience was using.
 * Worked with the Digital Engagement Officer and wider content development team to generate new and engaging content.
 * I was individually responsible for a number of the University's key social media accounts & generating the daily content for those channels.
 * Gained first hand experience in what does & doesn't make a successful digital campaign!
+
+__Technical Interviewer, Makers Academy (_Jun 2016 - Aug 2016_ )__
+* After studying there, I was invited by Makers Academy to temporarily join their staff as a technical interviewer.
+* Assisted the oboarding team in interviewing prospective new students -  this was a combined technical & sales role.
+* The role involved assessing candidate capabilities, including logical thinking ability and coding aptitude, as well as suitability for the course.
+* Took interviews both in person and remotely.
+* This was a great opportunity to see how far I had personally come, and put myself back in the shoes of beginners.
 
 ## Talks
 
