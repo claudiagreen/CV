@@ -37,6 +37,11 @@ Project | Description | Built With | Tested With
 
 ## Education
 
+#### Certified Professional Scrum Master (Jan 2017)
+* PSM1 certification
+* Fundamental understanding of the Scrum roles, events, artifacts, and the rules of the Scrum framework that bind them together as described in the Scrum Guide
+* Certificate available upon request
+
 #### Makers Academy (_Feb 2016 - May 2016_)
 
 * A hyper-intensive 12 week computer programming bootcamp at Europe’s #1 Developer Bootcamp
@@ -69,6 +74,13 @@ Awards:
 * Title: _How do the levels of sexualisation differ in advertising aimed at men and women?_
 
 ## Experience
+
+__Product Developer, ANDigital (_Sept 2016 - present_)__
+* Working as part of a multi-skilled mixed client/ANDigital team delivering new products and features for multichannel businesses.
+* Working as part of client product delivery team across activities such as analysis, design, coding, testing, delivery management etc.
+* Building a solid grounding across all aspects of digital delivery.
+* Experience in building digital products utilising agile methodologies, & implementing best practices and continuous delivery, adopting mostly Scrum and sometimes Kanban and XP techniques.
+
 
 __Digital Media Intern, Loughborough University (_Jul 2015 - Jan 2016_ )__
 * Assisted in the creation & delivery of digital content through the University’s social media channels and other digital platforms.
