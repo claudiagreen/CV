@@ -2,16 +2,14 @@
 
 I'm an outgoing, ambitious and analytic junior developer hailing from Yorkshire and now living in London. After graduating from Loughborough University with First Class Honours, and going on to work in digital media marketing, I began searching for a way to combine love of logic and my creative streak.
 
-From studying at Makers Academy, I have found what I was looking for in coding, and I'm seeking a junior dev role with extensive learning opportunities that will allow me to further build on my understanding of object-oriented design and clean, modular, test-driven code.
+From studying at Makers Academy, I found what I was looking for in coding, and I'm seeking a junior dev role with extensive learning opportunities that will allow me to further build on my understanding of object-oriented design and clean, modular, test-driven code. I went from knowing nothing about coding to being able to build fully-functional, rigorously tested web apps in the space of 12 weeks. I can't wait to see what I can learn in 12 months.
 
 
 ## Skills
 
 #### ...with people
 
-My friends and colleagues would describe me as good humoured, astute, reliable and community spirited. I have a genuine love for building up those around me, and reminding them of their strengths when they're too focused on the weaknesses.
-
-I am a perceptive person, with a proven track record of working well in a team dynamic in both an educational and professional capacity. However, recently I spent a week working on a project as part of a team that was an utter disaster. I saw that team dynamics had fallen apart and morale was incredibly low, and I tried to resolve it in the most effective way I could. I wanted us to have something productive to take away from the week beyond the product, so called a retro and asked the group to score ourselves out of 5 on communication, respect, simplicity, courage and feedback. Ultimately it was a fantastic opportunity for reflection and the group parted on good terms, and I'd consider this one of my greatest professional achievements to date.
+My friends and colleagues would describe me as good humoured, astute, reliable and community spirited. I have a genuine love for building up those around me, and reminding them of their strengths when they're too focused on the weaknesses. I am a perceptive person, with a proven track record of strong stakeholder managerment skills, as well as working well in a team dynamic in both an educational and professional capacity.
 
 
 #### ...with speaking
@@ -24,7 +22,7 @@ In a previous role I had the opportunity to conduct interviews with individuals 
 
 I'm a voracious learner (with a voracious appetite :fork_and_knife:) and I love new information. I'm attentive and methodical in my approach to all learning, and I believe this compliments the fast cycle of hypothesis testing in coding. I am thorough, enjoy critical thinking, and reflecting on my own work to make sure that my skills are always improving.
 
-I'm ambitious & aspire to be a female leader in the tech industry, and I want to be part of the movement to upskill the next generation of developers. I went from knowing nothing about coding to being able to build fully-functional, rigorously tested web apps in the space of 12 weeks. I can't wait to see what I can learn in 12 months.
+I'm ambitious & aspire to be a [female leader in the tech industry](http://www.huffingtonpost.com/entry/studentvoices-meet-10-inspiring-women-leaping-into_us_577fcbd8e4b0f06648f49f42), and I want to be part of the movement to upskill the next generation of developers. In my spare time, I am a remote coach for individuals who want to learn to code, with a focus on Pair Programming, TDD and Hypothesis Driven Thinking. 
 
 
 ## Projects
